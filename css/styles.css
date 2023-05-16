@@ -31,14 +31,14 @@ body {
 
 /* Header, nav, logo */
 
-.header {
+.header-container {
 	padding-top: 24px;
 	padding-bottom: 24px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
-.header-line {
+.header {
 	border-bottom: #ececec solid 1px;
 }
 
